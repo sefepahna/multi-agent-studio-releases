@@ -1,8 +1,8 @@
-# Multi-Agent Studio — End User License Agreement
+# Studio — End User License Agreement
 
 Copyright © 2026 Selim Efe Pahna. All rights reserved.
 
-By installing or using Multi-Agent Studio ("the app") you agree to these terms.
+By installing or using Studio ("the app") you agree to these terms.
 
 1. **Licence.** You may install and use the app on Macs you own or control, for personal or commercial work, free of charge. The app is licensed, not sold.
 2. **Restrictions.** You may not redistribute, sell, sublicense or rent the app, remove its notices, or reverse engineer it except where the law gives you that right regardless of this agreement.
